@@ -4,12 +4,12 @@ import java.io.Serializable;
 
 public class WeatherData implements Serializable {
     private double temperature;
-    private double precipitation;
+    private double participation;
     private double pressure;
 
-    public WeatherData(double temperature, double precipitation, double pressure) {
+    public WeatherData(double temperature, double participation, double pressure) {
         this.temperature = temperature;
-        this.precipitation = precipitation;
+        this.participation = participation;
         this.pressure = pressure;
     }
 
@@ -17,8 +17,8 @@ public class WeatherData implements Serializable {
         return temperature;
     }
 
-    public double getPrecipitation() {
-        return precipitation;
+    public double getParticipation() {
+        return participation;
     }
 
     public double getPressure() {
@@ -28,9 +28,9 @@ public class WeatherData implements Serializable {
     @Override
     public String toString() {
         return "WeatherData{" +
-                temperature +
-                "°C, " + precipitation +
-                "mm, " + pressure +
-                "hPa}";
+                "temperature=" + temperature +
+                ", participation=" + participation +
+                ", pressure=" + pressure +
+                '}';
     }
 }

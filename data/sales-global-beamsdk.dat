@@ -1,0 +1,399 @@
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=14.8, type=[0, 1, 0, 0], uuid=C68DA532-894E-2436-C9AF-51CEAE951197, userId=1051, timestamp=2022-04-09T05:54:01}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=18.9, type=[0, 1, 0, 0], uuid=A54B3F03-3B6A-68A3-9B57-AF8E50EA5BFF, userId=1045, timestamp=2022-04-22T03:53:46}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.8, type=[1, 0, 0, 0], uuid=BEF23102-B38A-65BF-F01D-4485DD290D67, userId=1006, timestamp=2022-04-29T09:42:47}
+{offer=30%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=7.2, discount=h&l, type=[0, 0, 1, 0], uuid=10BF34BB-56C3-5ED4-58CA-87F4B6380F46, userId=3078, timestamp=2022-04-05T02:17:29}
+{offer=15%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=2.5, type=[0, 1, 0, 0], uuid=8F8180BE-A29C-3EE9-F802-D4D48E1E30DA, userId=3084, timestamp=2022-04-19T04:56:41}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.5, type=[0, 1, 0, 0], uuid=EB452602-6AE6-5CFE-68FE-37E7F81BE8D4, userId=3045, timestamp=2022-04-04T12:33:29}
+{offer=30%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.5, type=[0, 0, 0, 1], uuid=9DD8A810-E7DC-32D9-3364-AC730F506CBC, userId=3030, timestamp=2022-04-04T09:14:44}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=5.0, type=[1, 0, 0, 0], uuid=5500C289-6319-C3F4-15F9-267BF0F15353, userId=3063, timestamp=2022-04-10T02:14:24}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=8.8, type=[0, 0, 1, 0], uuid=8F98D22E-46A9-F3D3-50F0-46AC376ACEDE, userId=3086, timestamp=2022-04-22T05:04:23}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=9.7, type=[1, 0, 0, 0], uuid=F5A73BE6-9A6A-290D-EA43-E209F22F71B0, userId=3054, timestamp=2022-04-30T02:18:25}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=8.8, type=[0, 0, 0, 1], uuid=BF3A5EF1-ACCB-C99A-0D2F-62350C21C08B, userId=3061, timestamp=2022-04-22T11:37:43}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=9.7, type=[0, 0, 1, 0], uuid=727A297C-45E5-D923-FA62-2D438A34DAAB, userId=3080, timestamp=2022-04-30T09:28:51}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=13.5, type=[1, 0, 0, 0], uuid=44DBB3C1-6022-6255-7520-A95B16354F38, userId=3087, timestamp=2022-04-25T09:21:47}
+{offer=20%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=9.7, discount=h&l, type=[0, 0, 0, 1], uuid=46AD2123-9537-DDA9-89CC-6C0B4D089CCB, userId=3066, timestamp=2022-04-30T06:03:47}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=7.4, discount=gft, type=[1, 0, 0, 0], uuid=A001E10C-E9EF-218E-A83F-81FB9CC0213E, userId=3000, timestamp=2022-04-24T10:02:55}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=9.2, type=[0, 1, 0, 0], uuid=541B570E-5CFA-B911-1C42-3BEDA4417264, userId=3095, timestamp=2022-04-13T07:09:29}
+{offer=20%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=4.1, type=[0, 1, 0, 0], uuid=DE6595F6-A56F-7DC2-5F00-3F40F3FC1627, userId=3047, timestamp=2022-04-17T02:58:31}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=13.0, discount=gft, type=[1, 0, 0, 0], uuid=AB5B4E7F-C261-2580-7F2D-CE74188DA0A2, userId=3081, timestamp=2022-04-26T05:53:51}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.9, type=[0, 1, 0, 0], uuid=7130883B-CA3A-2E61-F01A-036BEAB264C0, userId=3009, timestamp=2022-04-23T04:45:26}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=7.3, type=[0, 0, 0, 1], uuid=52B47C82-571C-2639-B031-731B224DD968, userId=3099, timestamp=2022-04-29T07:45:53}
+{offer=25%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=9.2, type=[0, 0, 1, 0], uuid=D746F43C-D6EE-0C05-CEBF-FF346F720338, userId=3054, timestamp=2022-04-13T06:07:54}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=2.9, discount=sg, type=[0, 1, 0, 0], uuid=67E48DCD-C169-E803-B3B8-E19DA0221019, userId=3035, timestamp=2022-04-03T01:04:54}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=5.9, type=[0, 1, 0, 0], uuid=686D6734-9486-4FA2-D06D-3CF86CCD77C0, userId=3047, timestamp=2022-04-23T05:07:55}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.3, type=[0, 0, 1, 0], uuid=A9F8CE9F-495C-13BE-C58B-C4A8618F6EE0, userId=3082, timestamp=2022-04-16T02:29:56}
+{offer=20%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=2.5, type=[0, 0, 1, 0], uuid=FAD9A536-3A58-F9FF-8E41-C292FEF78192, userId=3093, timestamp=2022-04-19T03:09:19}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=13.5, discount=gft, type=[0, 0, 1, 0], uuid=7994A56F-DC7C-A726-A9A4-8BAE0488566D, userId=3034, timestamp=2022-04-25T12:17:48}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=7.4, type=[1, 0, 0, 0], uuid=58AF6EE8-240C-581C-4487-BFCDB8E176CD, userId=3017, timestamp=2022-04-06T02:05:20}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.9, discount=h&l, type=[0, 1, 0, 0], uuid=81D20229-1405-89D5-2D8B-B512DD5D6B69, userId=3050, timestamp=2022-04-23T03:44:22}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.3, discount=sg, type=[0, 0, 0, 1], uuid=37230C6A-0B85-17DB-4505-20A99852AEB0, userId=3050, timestamp=2022-04-28T06:00:17}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=6.9, type=[1, 0, 0, 0], uuid=10592E33-C52C-32A9-6B4B-289B6E084CE8, userId=3079, timestamp=2022-04-11T04:53:57}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.6, type=[1, 0, 0, 0], uuid=B2A25197-E580-23F8-1AE4-E70AC3EDE9EE, userId=3023, timestamp=2022-04-27T02:49:09}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=13.5, type=[0, 0, 1, 0], uuid=B2A380D1-BA2C-D0E5-970B-0C7C2C3204BC, userId=3007, timestamp=2022-04-25T09:51:49}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=7.4, type=[0, 0, 1, 0], uuid=FB593632-EA70-11A3-8B41-69A5EE18A365, userId=3096, timestamp=2022-04-24T04:25:17}
+{offer=15%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=7.4, type=[0, 0, 1, 0], uuid=03E62B94-68D3-2554-DBB5-9416132E0044, userId=3025, timestamp=2022-04-06T05:31:56}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=9.2, discount=gft, type=[0, 0, 1, 0], uuid=73EE1417-5714-9096-B3E6-AAA7C6BDE9E7, userId=3001, timestamp=2022-04-13T05:50:54}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=7.1, type=[1, 0, 0, 0], uuid=9CC2430C-585A-6B7E-7411-1DA006B072C6, userId=3047, timestamp=2022-04-21T05:30:39}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=2.5, discount=gft, type=[0, 0, 0, 1], uuid=EC41BADE-D6F0-DB31-3C8D-5BFB1B0CF8BB, userId=3082, timestamp=2022-04-19T01:00:17}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=9.7, discount=ga, type=[0, 0, 1, 0], uuid=BECF15B6-DB70-53CD-E51E-8DE58845B48C, userId=3077, timestamp=2022-04-30T07:28:51}
+{offer=15%, country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=10.0, type=[1, 0, 0, 0], uuid=0A48BF71-2C1B-F53B-FA8B-D82FA26BCEFE, userId=3032, timestamp=2022-04-15T02:04:28}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.5, discount=ga, type=[1, 0, 0, 0], uuid=790461FD-4244-8BD8-959A-90ED050F6621, userId=3033, timestamp=2022-04-04T09:29:15}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=4.1, type=[0, 0, 1, 0], uuid=804B2FEA-B6FF-7D10-1496-436F087F8162, userId=3014, timestamp=2022-04-17T04:59:41}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=7.1, discount=sg, type=[0, 0, 1, 0], uuid=B6B9607B-856D-F258-26B3-FF247DACFB0F, userId=3080, timestamp=2022-04-21T03:27:44}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=9.2, type=[0, 1, 0, 0], uuid=80A093B0-F2D7-8B6C-FEE2-9D5E68A5D32E, userId=3092, timestamp=2022-04-13T02:36:21}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.0, discount=gft, type=[0, 0, 0, 1], uuid=B985ACAF-333B-4F2D-ABE0-5262AD4F433B, userId=3046, timestamp=2022-04-10T05:40:14}
+{offer=30%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.0, type=[0, 0, 1, 0], uuid=64193246-9872-5A57-BA77-C30ADE71F4CE, userId=3049, timestamp=2022-04-10T03:11:04}
+{offer=15%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=9.2, discount=ga, type=[0, 0, 1, 0], uuid=86000C26-8855-1C3A-E5A3-439E05522558, userId=3063, timestamp=2022-04-13T01:40:31}
+{offer=25%, country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=7.2, type=[0, 1, 0, 0], uuid=B54C1E4E-469B-BE31-B819-F13C81144EEB, userId=3099, timestamp=2022-04-05T09:35:30}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=2.5, discount=gft, type=[0, 1, 0, 0], uuid=352E1BF8-0E5C-5D14-A6AE-AAA07D176B1F, userId=3052, timestamp=2022-04-19T02:55:36}
+{offer=30%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=7.2, type=[0, 0, 0, 1], uuid=E18AC159-DAAD-D8D1-9D5E-ECD451924205, userId=3011, timestamp=2022-04-05T04:53:32}
+{offer=20%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.0, type=[0, 0, 1, 0], uuid=B3129485-1114-D2C4-0C22-047E8DBF89EB, userId=3050, timestamp=2022-04-01T03:27:59}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=13.3, discount=15%, type=[0, 1, 0, 0], uuid=F558B825-4728-911C-DB73-DB031A6E3F91, userId=3064, timestamp=2022-04-14T04:03:19}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=8.6, type=[0, 1, 0, 0], uuid=A0E69BC8-25B0-1EA8-2B7F-5D0C7BF07738, userId=1023, timestamp=2022-04-04T12:13:29}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=11.3, type=[0, 1, 0, 0], uuid=25EF49C1-E656-FDE5-048E-D959B3F65916, userId=3091, timestamp=2022-04-18T04:54:44}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=8.8, discount=25%, type=[0, 0, 0, 1], uuid=89A99228-D91F-0ABC-4864-514C0AC2CBA1, userId=3042, timestamp=2022-04-23T01:27:47}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=12.9, discount=30%, type=[0, 0, 1, 0], uuid=A5E093BB-1042-C76F-DE29-751667A06B7B, userId=1021, timestamp=2022-04-07T02:10:58}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=8.8, discount=25%, type=[0, 1, 0, 0], uuid=29C0E96C-13C2-64F4-BB4A-E6614ADFAF75, userId=3046, timestamp=2022-04-23T06:11:22}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=14.8, type=[0, 1, 0, 0], uuid=972489C6-4D5C-3B22-E90D-328B8231A679, userId=1021, timestamp=2022-04-09T09:04:17}
+{offer=sg, country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=16.2, type=[0, 1, 0, 0], uuid=9FEC7991-9F56-8338-8F7E-C7B0DD56C70D, userId=1035, timestamp=2022-04-24T09:50:23}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=12.2, type=[0, 1, 0, 0], uuid=C2DEFBE4-5FFF-64A5-37AC-291BC3D51E9B, userId=3011, timestamp=2022-04-30T12:16:37}
+{offer=ga, country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=8.6, discount=20%, type=[0, 1, 0, 0], uuid=F9F0A201-1EBE-4ACC-D324-2BA341DB2244, userId=1058, timestamp=2022-04-04T11:33:04}
+{offer=h&l, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=10.6, discount=30%, type=[0, 1, 0, 0], uuid=B0C9B202-5639-5831-04CC-5D4EFB8440F7, userId=3098, timestamp=2022-04-22T03:34:00}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=16.6, type=[1, 0, 0, 0], uuid=CC2435EE-D56B-8FE1-0AB9-0C2FFCDF33A8, userId=1027, timestamp=2022-04-11T06:42:11}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=11.7, type=[0, 1, 0, 0], uuid=979867CE-12EC-1BF9-0445-ED3F6D2B246D, userId=1090, timestamp=2022-04-17T10:14:01}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=6.4, discount=15%, type=[0, 0, 1, 0], uuid=B36F72C1-7380-3982-8020-6AE5AD4058F9, userId=3019, timestamp=2022-04-01T05:25:23}
+{offer=sg, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=11.1, type=[0, 1, 0, 0], uuid=A9D07A6F-5517-0F35-950C-514CD4FAA837, userId=3069, timestamp=2022-04-26T07:18:06}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=19.4, discount=25%, type=[1, 0, 0, 0], uuid=7E0BFF04-600A-1D31-CF2A-5D1D4583E1F0, userId=1045, timestamp=2022-04-26T05:18:26}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=11.3, discount=30%, type=[0, 0, 1, 0], uuid=12EC5548-A550-D6E2-4458-126E950F5706, userId=3021, timestamp=2022-04-17T03:39:27}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=11.5, type=[1, 0, 0, 0], uuid=E12A212F-252C-44EE-B095-D09916AC21C7, userId=1013, timestamp=2022-04-16T10:05:12}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=11.9, discount=20%, type=[0, 0, 1, 0], uuid=FFEC693C-0E36-1BF3-A181-881F5613CB14, userId=3051, timestamp=2022-04-27T12:54:33}
+{offer=gft, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=18.4, discount=25%, type=[1, 0, 0, 0], uuid=07D0B8E8-7491-EBD3-FE96-30B6583B8EEA, userId=1095, timestamp=2022-04-25T07:28:38}
+{offer=sg, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=13.3, type=[0, 1, 0, 0], uuid=11A09D9B-1D66-5BC6-C587-A7310DC36C7F, userId=3039, timestamp=2022-04-14T02:38:45}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=12.2, discount=25%, type=[0, 0, 1, 0], uuid=8ABDDC9A-040F-1309-B831-01F25D7E3D1D, userId=3027, timestamp=2022-04-30T06:47:59}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=12.2, discount=15%, type=[0, 1, 0, 0], uuid=A324784A-D8B5-1CED-1D1C-C4EB40F18574, userId=3004, timestamp=2022-04-30T02:42:21}
+{offer=h&l, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=15.4, type=[0, 0, 0, 1], uuid=FE5382B5-A32A-4BF4-726A-2931A66778CA, userId=3058, timestamp=2022-04-15T01:35:37}
+{offer=sg, country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=11.3, type=[0, 0, 0, 1], uuid=05C24EDA-1F57-3317-4416-5CA1EFCCAA6C, userId=3039, timestamp=2022-04-19T07:34:34}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=10.6, type=[0, 1, 0, 0], uuid=0C8AD335-C6C5-2164-1A55-78FF9AFA05DD, userId=1042, timestamp=2022-04-15T09:37:05}
+{offer=h&l, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=8.8, type=[0, 0, 1, 0], uuid=B2738E73-D35B-5DC6-B228-5E4189177878, userId=3016, timestamp=2022-04-23T10:36:03}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=11.1, type=[0, 0, 0, 1], uuid=18F58B62-DDFB-AEEE-0995-1CC81E5815C6, userId=3040, timestamp=2022-04-26T10:05:50}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=11.1, type=[0, 1, 0, 0], uuid=C76E5F11-BF2D-DD53-5E50-74734535517A, userId=3032, timestamp=2022-04-26T04:17:22}
+{offer=ga, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=18.4, discount=25%, type=[0, 0, 0, 1], uuid=0DCDCE48-F8DC-3BB4-0E02-6E19A7FDCBFC, userId=1048, timestamp=2022-04-25T06:05:43}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=7.2, discount=25%, type=[1, 0, 0, 0], uuid=1BF047DA-D249-654A-D878-A328FF512B5A, userId=3009, timestamp=2022-04-05T04:37:53}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.8, type=[0, 0, 1, 0], uuid=3092D2E9-A62F-BCBD-2A07-E150B6F28703, userId=1065, timestamp=2022-04-29T04:36:25}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=10.1, discount=15%, type=[0, 0, 0, 1], uuid=90957A21-A911-5A9F-7B40-7246D2E0DDF8, userId=3078, timestamp=2022-04-09T07:32:26}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=7.2, type=[0, 0, 1, 0], uuid=0A8B9FB0-7967-0460-27B2-427C05EB0D9D, userId=1020, timestamp=2022-04-01T05:34:31}
+{offer=ga, country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=10.6, discount=30%, type=[0, 0, 0, 1], uuid=9A389350-B88E-23B1-C92D-A923D45D9809, userId=3041, timestamp=2022-04-22T01:14:55}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.2, type=[0, 1, 0, 0], uuid=80F82DDB-34CE-5340-5BA8-0DF12B6DB17C, userId=3074, timestamp=2022-04-30T06:22:28}
+{offer=gft, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=14.8, discount=30%, type=[0, 0, 0, 1], uuid=93D41DAB-2F6C-8DC0-4764-CFFAAD4A27F7, userId=1032, timestamp=2022-04-09T07:22:54}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=11.3, type=[0, 0, 0, 1], uuid=C0913484-120C-52E7-9A8A-3714CF5752A1, userId=3071, timestamp=2022-04-19T02:23:10}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=7.2, type=[0, 0, 0, 1], uuid=50B0A061-4D94-D66A-9474-7159989703DB, userId=3099, timestamp=2022-04-05T11:22:41}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=3.8, type=[0, 1, 0, 0], uuid=B02BEB30-DD6A-DEC5-11A6-8242E056BF0B, userId=3022, timestamp=2022-04-03T04:29:32}
+{offer=gft, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=10.6, type=[0, 0, 0, 1], uuid=EB87D041-20E9-043D-1377-EDDB9E130AA4, userId=3049, timestamp=2022-04-22T10:57:38}
+{offer=h&l, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=8.6, type=[0, 0, 1, 0], uuid=90176763-7ED3-F52C-1348-854BE9F738BB, userId=1055, timestamp=2022-04-04T02:23:12}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=10.6, type=[0, 0, 1, 0], uuid=4DADDA82-7AA9-C0DB-5FEB-7051450BDA29, userId=1056, timestamp=2022-04-15T12:26:10}
+{offer=h&l, country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.1, discount=25%, type=[0, 1, 0, 0], uuid=E6CFAE4E-DF55-106D-CDC5-DE143A4DCC9D, userId=3024, timestamp=2022-04-13T09:54:05}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=9.7, type=[0, 1, 0, 0], uuid=E2FA5E28-6915-CA70-6419-1B335EFD9E81, userId=3017, timestamp=2022-04-07T09:12:22}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=12.9, type=[1, 0, 0, 0], uuid=B9EBA1D3-8CED-BC9F-E448-50393EFFFC4F, userId=1036, timestamp=2022-04-07T04:46:03}
+{offer=gft, country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=6.4, type=[0, 1, 0, 0], uuid=BF57D211-0EF2-6276-F582-E3EEBADA8D10, userId=3012, timestamp=2022-04-01T02:56:59}
+{offer=gft, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=19.4, discount=30%, type=[0, 0, 0, 1], uuid=DF5A14EB-3196-104A-31F7-8D65C49404E9, userId=1059, timestamp=2022-04-26T09:07:57}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=6.4, type=[0, 0, 0, 1], uuid=1F545526-C3DA-73B5-55A4-46E74ED92C69, userId=3036, timestamp=2022-04-01T04:04:11}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=8.6, discount=25%, type=[0, 0, 1, 0], uuid=412C11F7-6A38-DFA8-4A82-C9D4667C6431, userId=1005, timestamp=2022-04-04T10:15:34}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=11.1, type=[0, 1, 0, 0], uuid=4FFBED4F-5B80-16AB-E257-5CA9D8AEC547, userId=3034, timestamp=2022-04-26T05:41:23}
+{offer=sg, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=12.6, type=[0, 1, 0, 0], uuid=16A9837A-9F16-01D0-2879-63B1A0D194BA, userId=1003, timestamp=2022-04-18T12:00:43}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=16.6, discount=30%, type=[0, 0, 0, 1], uuid=E7900459-9E84-115B-2271-1ABB61BFF5FD, userId=1024, timestamp=2022-04-11T12:12:20}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=9.5, discount=15%, type=[1, 0, 0, 0], uuid=1E67571D-CB7E-9F4C-DC4D-E728A652FF02, userId=3042, timestamp=2022-04-12T12:33:55}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=13.1, type=[0, 1, 0, 0], uuid=39A05CDE-4231-3941-4309-BB8A0495A755, userId=3002, timestamp=2022-04-28T03:23:12}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=10.1, type=[1, 0, 0, 0], uuid=CA7907EA-9A23-C298-0106-173F91B8A9A9, userId=3097, timestamp=2022-04-09T04:54:07}
+{offer=gft, country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=17.3, discount=25%, type=[1, 0, 0, 0], uuid=D5F3C44D-6F66-6C6F-4E7F-340F2AB8E84E, userId=1079, timestamp=2022-04-10T04:51:46}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=8.0, discount=15%, type=[0, 0, 1, 0], uuid=4A4CF915-3FB7-457F-E9F8-8C37739AC8BA, userId=3036, timestamp=2022-04-11T02:33:29}
+{offer=sg, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=18.9, discount=25%, type=[0, 0, 0, 1], uuid=A9302752-650D-2765-57F8-624C59A61035, userId=1021, timestamp=2022-04-22T11:15:20}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=2.1, discount=25%, type=[0, 0, 0, 1], uuid=1EB20001-61EA-B60E-0216-1CD5BABBDC53, userId=3063, timestamp=2022-04-02T09:22:41}
+{offer=ga, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=12.2, type=[1, 0, 0, 0], uuid=123A74A5-446C-C4F7-DAE9-A39C771BF3D0, userId=1077, timestamp=2022-04-30T12:28:49}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=14.2, discount=20%, type=[1, 0, 0, 0], uuid=04C8C7E1-A641-EB0B-8B89-DD8DDE8D7BAB, userId=1022, timestamp=2022-04-19T04:29:22}
+{offer=ga, country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=7.2, type=[1, 0, 0, 0], uuid=4495B016-9B9F-E611-1AB8-FB17DEDF3852, userId=3046, timestamp=2022-04-06T12:24:50}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=16.6, type=[0, 0, 1, 0], uuid=375A0AB5-B228-3666-73EF-4DD3319DEFF5, userId=1046, timestamp=2022-04-11T03:22:13}
+{offer=ga, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=9.7, type=[0, 1, 0, 0], uuid=5E020639-A3F3-BF31-4458-85693BD2EEFE, userId=3061, timestamp=2022-04-07T01:12:23}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=13.1, discount=20%, type=[0, 1, 0, 0], uuid=92504472-3978-497F-E143-A163A1E63D46, userId=3052, timestamp=2022-04-28T05:17:40}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=6.7, discount=15%, type=[0, 0, 1, 0], uuid=F0FBD24E-1E1E-68D7-2BC2-D6A247EAED44, userId=1070, timestamp=2022-04-02T04:58:38}
+{offer=gft, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.8, type=[0, 1, 0, 0], uuid=AC69B2AF-D6D5-8AA4-9F40-8FFC67784BFF, userId=1039, timestamp=2022-04-29T06:36:10}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=12.2, discount=30%, type=[0, 0, 1, 0], uuid=981AB9CA-4B7C-9B1F-68D1-55D328AC8CDD, userId=3074, timestamp=2022-04-30T11:39:05}
+{offer=h&l, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=16.6, type=[0, 0, 1, 0], uuid=E893DCE2-6214-E369-F6E3-F83E16FBC4E5, userId=1095, timestamp=2022-04-11T03:26:37}
+{offer=h&l, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=14.8, type=[1, 0, 0, 0], uuid=0AAE5BA2-673C-C98C-BAE1-EA122FE7A6DE, userId=1069, timestamp=2022-04-09T12:49:23}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=8.8, type=[0, 1, 0, 0], uuid=774DA1E0-F24B-526A-9C07-7D5266561CCC, userId=3004, timestamp=2022-04-23T01:33:12}
+{offer=gft, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=19.3, type=[0, 1, 0, 0], uuid=9F3BCB95-4567-9AE6-6802-588A070D5A0E, userId=1047, timestamp=2022-04-23T07:33:20}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.8, type=[0, 0, 1, 0], uuid=57E99C8C-FDAF-C726-1768-1CE50A3205C9, userId=1078, timestamp=2022-04-29T03:32:01}
+{offer=ga, country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=7.2, discount=20%, type=[0, 1, 0, 0], uuid=7FCE21F0-00DF-50EB-A92A-7D0E04C19E24, userId=3055, timestamp=2022-04-06T11:10:04}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=12.2, type=[1, 0, 0, 0], uuid=9003892B-E70E-7D11-AE78-67725F0ACB09, userId=1054, timestamp=2022-04-30T09:26:38}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=18.4, type=[0, 1, 0, 0], uuid=9326252A-2E53-6C2C-6634-106AB63AAA8E, userId=1011, timestamp=2022-04-25T06:02:15}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=12.2, type=[0, 0, 0, 1], uuid=E8BF1A8C-53A1-69D6-7AF5-49B4B2184382, userId=1053, timestamp=2022-04-30T09:13:56}
+{offer=h&l, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=6.7, type=[1, 0, 0, 0], uuid=47F68604-61A1-3742-2371-D0E48A3C82FD, userId=1042, timestamp=2022-04-02T10:14:02}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=12.2, type=[0, 1, 0, 0], uuid=4F1F5854-1701-7906-3C95-B4F95DCC529B, userId=3021, timestamp=2022-04-30T06:31:21}
+{offer=h&l, country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=12.7, type=[0, 0, 1, 0], uuid=091292A1-9163-BD88-1119-69AD07591643, userId=3064, timestamp=2022-04-29T12:48:42}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=4.9, discount=20%, type=[0, 1, 0, 0], uuid=82D40B7F-889C-53E5-DB0F-C1C9E9ABD945, userId=3100, timestamp=2022-04-04T07:36:56}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=18.1, discount=25%, type=[0, 0, 1, 0], uuid=86DC2D89-2A00-5F5D-32DA-528259FF664A, userId=1000, timestamp=2022-04-12T03:11:27}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.2, type=[0, 0, 0, 1], uuid=4784C8F4-0189-EBCB-E4C3-E5CA1D8745CF, userId=3098, timestamp=2022-04-30T04:14:48}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=14.2, type=[1, 0, 0, 0], uuid=BAEF7AEC-B90B-75C0-1D48-73234AAA9C3C, userId=1044, timestamp=2022-04-19T04:50:11}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=2.1, type=[1, 0, 0, 0], uuid=B8870C83-70F7-0613-17BE-2839FC8B5AB3, userId=3057, timestamp=2022-04-02T03:29:04}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=7.2, discount=20%, type=[0, 0, 0, 1], uuid=142ED577-DDD7-DBFC-3632-4E65D5834448, userId=1063, timestamp=2022-04-01T04:30:36}
+{offer=h&l, country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=18.1, type=[0, 0, 0, 1], uuid=C0697CC7-9177-784A-7714-448B57C2C6A2, userId=1013, timestamp=2022-04-12T06:13:03}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=15.1, type=[0, 1, 0, 0], uuid=641355C3-4EDF-C209-76B1-E313856C8D19, userId=3079, timestamp=2022-04-16T05:11:38}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=8.6, discount=25%, type=[0, 1, 0, 0], uuid=5227F0DE-8436-7EC6-1935-6C8EBF918595, userId=1004, timestamp=2022-04-04T11:44:41}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=15.4, type=[1, 0, 0, 0], uuid=FB952D50-CFCB-9FED-B6A7-1851E3EFF548, userId=3021, timestamp=2022-04-15T02:30:49}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=10.1, type=[0, 1, 0, 0], uuid=A9E16D7F-B337-ACF4-9E7D-4B9224F63364, userId=3019, timestamp=2022-04-09T09:23:22}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=8.6, discount=15%, type=[0, 1, 0, 0], uuid=2CA31475-1903-9B18-744A-B15B19AF74B6, userId=1041, timestamp=2022-04-04T02:30:42}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.2, type=[0, 0, 1, 0], uuid=E879B402-8703-0E5D-9132-E47522BEAF21, userId=3024, timestamp=2022-04-30T12:49:15}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=16.2, type=[0, 1, 0, 0], uuid=38AAC9E4-6B5E-833B-E5C6-5B9544E18C2F, userId=1051, timestamp=2022-04-24T09:41:53}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=13.3, discount=20%, type=[0, 0, 1, 0], uuid=B5711471-CDCE-99C0-E0AE-B0253484C412, userId=3067, timestamp=2022-04-14T01:51:28}
+{offer=ga, country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=19.3, type=[1, 0, 0, 0], uuid=B27129A7-63F2-0C28-A983-F4C2E3192BAD, userId=1090, timestamp=2022-04-23T07:53:53}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=13.3, type=[1, 0, 0, 0], uuid=91C4B1A7-E588-DD66-D7CE-463977CE59A8, userId=3027, timestamp=2022-04-14T10:14:41}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.8, discount=15%, type=[0, 0, 1, 0], uuid=00B27744-4B13-00D6-98A3-6D3E17160215, userId=1059, timestamp=2022-04-29T04:51:35}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=12.1, type=[0, 0, 0, 1], uuid=88B965C3-DCD3-ED04-263F-D6572CF9981D, userId=3030, timestamp=2022-04-13T07:33:15}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=19.3, type=[0, 1, 0, 0], uuid=5A52A520-3AE2-D0BC-D0FA-2AA45337EDCA, userId=1099, timestamp=2022-04-23T06:44:27}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=12.2, type=[1, 0, 0, 0], uuid=401BE6AA-940E-6FF3-8F0D-4A87117D8E71, userId=3002, timestamp=2022-04-30T12:53:11}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=9.7, discount=30%, type=[0, 0, 1, 0], uuid=E20E7449-5D3B-193E-AE3B-DFFEBD611297, userId=3073, timestamp=2022-04-07T03:29:56}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=12.8, type=[1, 0, 0, 0], uuid=B53EE849-CD4F-2666-352D-466F2142048A, userId=1066, timestamp=2022-04-29T12:56:54}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=13.1, type=[1, 0, 0, 0], uuid=C2DB542A-A673-4907-2D62-8A50F6966E32, userId=3097, timestamp=2022-04-28T12:47:24}
+{offer=gft, country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=15.1, discount=20%, type=[0, 0, 0, 1], uuid=2618398D-46B1-A79C-D9ED-4E2C5D00A8D0, userId=3048, timestamp=2022-04-16T06:01:50}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=7.1, type=[0, 0, 0, 1], uuid=284FCE45-4254-6FAF-C9FF-647595722A1E, userId=1076, timestamp=2022-04-03T02:50:34}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=9.5, type=[0, 0, 0, 1], uuid=786B2918-8717-F67C-135E-F069428FAC1E, userId=3079, timestamp=2022-04-12T04:43:52}
+{offer=sg, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=11.5, discount=30%, type=[1, 0, 0, 0], uuid=B0780AE8-C637-6D48-3D50-8E0C63EFCF2C, userId=1057, timestamp=2022-04-16T09:19:01}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=12.9, discount=25%, type=[1, 0, 0, 0], uuid=D18D00E6-8049-7C5C-F7C3-A190F21BF996, userId=1046, timestamp=2022-04-07T07:07:41}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=7.2, discount=30%, type=[0, 0, 0, 1], uuid=3C4D9EED-0584-8489-FF8C-6CEF7846D473, userId=3030, timestamp=2022-04-06T05:46:25}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=19.4, discount=25%, type=[0, 0, 1, 0], uuid=AA362DB3-9043-AD32-33D4-D9D178EFFCFE, userId=1099, timestamp=2022-04-26T01:45:33}
+{offer=gft, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=8.6, type=[0, 1, 0, 0], uuid=5D21C960-7C24-7977-D536-015F1833E5F6, userId=1023, timestamp=2022-04-04T05:58:05}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=8.6, type=[0, 1, 0, 0], uuid=B3B10EEF-C454-40CA-ADE2-BCFEC946D8E8, userId=1059, timestamp=2022-04-04T05:34:28}
+{offer=sg, country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=8.2, discount=30%, type=[0, 0, 1, 0], uuid=0C906491-C5B1-EC3D-D4B8-B65563BAB0D7, userId=3052, timestamp=2022-04-24T02:22:02}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=12.2, type=[1, 0, 0, 0], uuid=A98F03DD-6204-920C-6963-50DD69E17EDF, userId=3072, timestamp=2022-04-30T02:47:25}
+{offer=h&l, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=19.3, discount=25%, type=[0, 0, 1, 0], uuid=E9E82019-13FB-81FB-8DA9-59431E947EBD, userId=1095, timestamp=2022-04-23T03:55:13}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=8.8, type=[1, 0, 0, 0], uuid=E5A18371-FA31-18C7-D6B4-27CFE12DD23F, userId=3016, timestamp=2022-04-23T07:52:20}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=15.4, type=[0, 0, 1, 0], uuid=55F2685D-9697-16DA-4380-F7890E062F58, userId=3023, timestamp=2022-04-15T04:26:05}
+{offer=gft, country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=9.7, discount=25%, type=[0, 0, 0, 1], uuid=307CA489-FF3B-C66C-5E6B-8385A5BC23BB, userId=3092, timestamp=2022-04-07T01:33:46}
+{offer=h&l, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=11.7, type=[1, 0, 0, 0], uuid=658A503C-AD2B-B3C7-5DA3-7834FF3D9E68, userId=1021, timestamp=2022-04-17T06:34:43}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=18.4, type=[0, 0, 0, 1], uuid=657FE5EF-5EAD-FF2D-D3BE-51945C26A89B, userId=1000, timestamp=2022-04-25T03:03:48}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=19.3, type=[0, 0, 0, 1], uuid=263A4EC4-AAE5-D560-CFDC-5F4FFA6A68C8, userId=1041, timestamp=2022-04-23T09:43:58}
+{offer=h&l, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=7.2, discount=25%, type=[0, 0, 1, 0], uuid=04D3FE67-7885-D909-3E5E-028AAD1EAF65, userId=1003, timestamp=2022-04-01T10:54:06}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=12.9, type=[0, 1, 0, 0], uuid=38426FEB-57B3-D885-FCCF-C1989E339F13, userId=1027, timestamp=2022-04-07T12:39:27}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.6, discount=25%, type=[0, 1, 0, 0], uuid=FC947CF8-E305-F463-50A4-031BE4A78DAF, userId=1027, timestamp=2022-04-18T01:49:55}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=12.9, discount=15%, type=[0, 0, 0, 1], uuid=ED8FA915-CFD0-75A1-632A-1FA3304871CA, userId=1096, timestamp=2022-04-07T10:13:32}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=11.9, type=[0, 1, 0, 0], uuid=D2AD5991-054B-1C7B-2924-11278266A6AA, userId=3079, timestamp=2022-04-27T04:35:26}
+{offer=sg, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=12.2, type=[0, 0, 0, 1], uuid=CA46E313-D28C-8978-70D8-B0395797396B, userId=1020, timestamp=2022-04-30T01:49:12}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=13.3, type=[0, 0, 1, 0], uuid=DCA461F5-03D2-3D7F-F287-4639FB90A56F, userId=3071, timestamp=2022-04-14T03:10:14}
+{offer=h&l, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=7.1, type=[0, 1, 0, 0], uuid=A886BBBF-A553-6B47-61DC-3E462449A5BE, userId=1004, timestamp=2022-04-03T02:20:24}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=6.9, discount=15%, type=[0, 0, 1, 0], uuid=528EAF66-D3AE-42AE-64E7-6F2AC8452B47, userId=3090, timestamp=2022-04-10T01:17:07}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=8.8, type=[1, 0, 0, 0], uuid=0B500F35-7465-DB70-5176-2501643B2643, userId=3026, timestamp=2022-04-23T11:02:15}
+{offer=h&l, country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.1, type=[0, 1, 0, 0], uuid=170A9FD5-88FF-6DEC-A49F-3EF1C3748AC2, userId=3058, timestamp=2022-04-13T04:07:12}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=7.2, type=[1, 0, 0, 0], uuid=068CCAD9-1B59-06AF-627D-D1812AE4B522, userId=3017, timestamp=2022-04-05T01:47:37}
+{offer=gft, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=18.4, type=[0, 0, 1, 0], uuid=C9091C39-DF74-4385-D12C-7055858A2E81, userId=1046, timestamp=2022-04-25T01:42:44}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=11.7, type=[0, 1, 0, 0], uuid=0B441F56-057E-00F9-9E34-78E3C9FF6FA8, userId=1027, timestamp=2022-04-20T01:46:34}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=12.9, type=[0, 1, 0, 0], uuid=46C7FBC0-375D-D74D-962B-04CDBF0FC872, userId=1069, timestamp=2022-04-07T04:48:23}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=12.2, type=[0, 0, 1, 0], uuid=DD7B462D-C21D-A591-7E5B-2D7EC8E06097, userId=3060, timestamp=2022-04-30T01:00:52}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=12.1, type=[0, 1, 0, 0], uuid=66EF0AAB-6F0B-5411-B77D-856FE4952B91, userId=3045, timestamp=2022-04-13T05:57:05}
+{offer=gft, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=10.6, discount=25%, type=[0, 0, 1, 0], uuid=2BFDF7C3-467E-E7C1-B977-33C82F1EFFE5, userId=1037, timestamp=2022-04-15T07:18:15}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=11.7, discount=30%, type=[0, 1, 0, 0], uuid=F2816BB0-C1E5-88ED-157F-816F81158B01, userId=1092, timestamp=2022-04-20T11:55:21}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=22.4, type=[1, 0, 0, 0], uuid=180EA4B1-2289-4D97-140D-6C589B5C4927, userId=1040, timestamp=2022-04-27T04:19:57}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=12.2, type=[0, 1, 0, 0], uuid=F27797A2-CE96-150E-11A4-A85BC4EF93F3, userId=1044, timestamp=2022-04-30T02:14:11}
+{offer=ga, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=14.3, discount=15%, type=[1, 0, 0, 0], uuid=43FC607A-299A-4BEA-C21A-2051C7FD07FD, userId=1073, timestamp=2022-04-21T05:06:03}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=12.6, type=[1, 0, 0, 0], uuid=738B9557-B7EA-B71E-72B8-A323AD26BDC0, userId=1072, timestamp=2022-04-18T05:53:13}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=18.9, type=[1, 0, 0, 0], uuid=7952CEDD-BB49-314A-B91E-55B5E9F6C406, userId=1040, timestamp=2022-04-22T05:49:59}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=5.5, discount=ga, type=[0, 0, 1, 0], uuid=1D016916-8124-83CE-CDBC-861B9F79571D, userId=3033, timestamp=2022-04-04T05:03:22}
+{offer=30%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=9.7, type=[1, 0, 0, 0], uuid=DB999AFB-F50B-0D61-CDD2-F9B77AA27F5D, userId=3082, timestamp=2022-04-30T03:21:41}
+{offer=30%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.0, type=[0, 0, 0, 1], uuid=3CA8FDAA-424F-B8E6-E2A9-4DA256F53090, userId=3073, timestamp=2022-04-01T11:56:07}
+{offer=ga, country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=9.2, type=[0, 1, 0, 0], uuid=F3B7DE17-B2F0-1F17-2B2D-5E947D8E6355, userId=8, timestamp=2022-04-27T04:10:41}
+{offer=sg, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=7.8, discount=15%, type=[0, 0, 1, 0], uuid=6CE2AF44-0CD3-25A6-9421-FCFB24016249, userId=12, timestamp=2022-04-09T04:14:27}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=7.8, type=[0, 0, 1, 0], uuid=A3D08F16-D32F-67F0-CB2F-E530390B85DC, userId=49, timestamp=2022-04-09T06:02:06}
+{offer=sg, country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=12.0, type=[1, 0, 0, 0], uuid=FD9D075C-3BE5-D3E7-ED08-CE9DBB355D2D, userId=94, timestamp=2022-04-20T10:00:27}
+{offer=h&l, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.0, type=[0, 0, 0, 1], uuid=18FD0825-4CEF-2BB1-978D-31F876ECECEC, userId=60, timestamp=2022-04-20T06:41:21}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=14.8, type=[0, 0, 0, 1], uuid=24A8E052-A759-40A4-88A9-EBDFC6295AC1, userId=9, timestamp=2022-04-15T04:05:50}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=9.6, discount=25%, type=[0, 1, 0, 0], uuid=2F7E8399-237C-785E-C4E1-A7923EA99A14, userId=10, timestamp=2022-04-04T08:03:38}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=9.6, type=[0, 0, 1, 0], uuid=B8A48D45-AA58-7B34-F8CD-6F03D92C59AE, userId=10, timestamp=2022-04-04T01:32:50}
+{offer=h&l, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=11.5, type=[0, 0, 0, 1], uuid=03678043-061D-C397-5920-7A4FC468AD08, userId=1, timestamp=2022-04-30T07:56:57}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=10.1, discount=15%, type=[0, 0, 1, 0], uuid=5E18FDB7-759E-BFF5-B182-E26ADB24307B, userId=54, timestamp=2022-04-28T07:11:44}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=9.2, type=[0, 0, 1, 0], uuid=D690516C-C904-0055-7D1B-029D6EED37CE, userId=23, timestamp=2022-04-27T12:36:57}
+{offer=h&l, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.7, type=[0, 1, 0, 0], uuid=4D1A2C4A-7F96-1534-AFCA-7FBE3F558053, userId=41, timestamp=2022-04-24T09:15:32}
+{offer=gft, country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=14.8, type=[0, 0, 1, 0], uuid=4B09D963-4BB8-A5E6-37F9-FADA763B3290, userId=46, timestamp=2022-04-15T01:10:39}
+{offer=h&l, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=11.5, type=[0, 0, 1, 0], uuid=4BC96420-A5DB-9C22-849C-438DECADA4BB, userId=80, timestamp=2022-04-30T12:25:00}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=14.8, type=[1, 0, 0, 0], uuid=D660C815-7756-8642-D700-8AA57FC0EEC8, userId=71, timestamp=2022-04-15T08:27:28}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=10.0, type=[0, 0, 0, 1], uuid=3E655572-A8FB-DC0C-6DEA-6D0CF7FFE9E5, userId=20, timestamp=2022-04-25T08:14:00}
+{offer=ga, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=9.2, discount=20%, type=[0, 0, 1, 0], uuid=5F2C2006-5DBF-82FA-B65A-6878E277402D, userId=88, timestamp=2022-04-27T10:53:42}
+{offer=h&l, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.1, discount=20%, type=[0, 0, 0, 1], uuid=E1157A61-679B-0BCE-4DC8-F363AC433F54, userId=22, timestamp=2022-04-21T05:29:58}
+{offer=sg, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=11.0, type=[0, 0, 1, 0], uuid=EF314E0C-9041-0AD0-A9C0-E1A4B2DD0C59, userId=23, timestamp=2022-04-06T04:13:20}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=11.5, discount=15%, type=[0, 0, 0, 1], uuid=D1DB8756-D047-3918-920E-ECBCB73FEF71, userId=87, timestamp=2022-04-30T07:17:15}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=12.7, type=[0, 0, 1, 0], uuid=518F2A6D-DAF6-53B1-98C1-C24233532868, userId=99, timestamp=2022-04-24T07:19:42}
+{offer=ga, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=14.8, discount=30%, type=[0, 0, 0, 1], uuid=97DE2656-888B-DB6F-91DC-BF4C281A40B7, userId=75, timestamp=2022-04-15T01:02:17}
+{offer=h&l, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=9.6, type=[1, 0, 0, 0], uuid=F7E7C550-C65B-CEAE-99C5-BEF9735D19F8, userId=69, timestamp=2022-04-04T12:33:02}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=10.5, type=[0, 0, 0, 1], uuid=63912E68-4A94-290A-3678-7313A648657E, userId=75, timestamp=2022-04-11T10:07:52}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=9.6, type=[0, 0, 0, 1], uuid=362EB171-C89D-B86C-3E43-764023C32F99, userId=18, timestamp=2022-04-04T05:58:49}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=14.8, type=[1, 0, 0, 0], uuid=945F7328-2256-68CA-406B-08DB2B3B18AE, userId=28, timestamp=2022-04-15T09:26:29}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=4.5, type=[0, 0, 1, 0], uuid=0FCF5370-4F0F-8E01-4DA7-BAE26AF84F4E, userId=58, timestamp=2022-04-02T06:51:46}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=9.0, type=[0, 0, 1, 0], uuid=06343C30-FB39-A7D3-096E-F5D61B31D0AA, userId=83, timestamp=2022-04-10T08:49:18}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=4.5, type=[0, 0, 1, 0], uuid=5E582826-0DEB-D699-3FBC-FC29C9243EE2, userId=41, timestamp=2022-04-02T03:39:54}
+{offer=h&l, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=11.0, type=[0, 0, 0, 1], uuid=5E2DC3E4-E288-5815-804F-4331D726A021, userId=72, timestamp=2022-04-06T04:09:34}
+{offer=ga, country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=14.5, type=[1, 0, 0, 0], uuid=2E905A79-2293-0D06-0C8D-1692483F9702, userId=5, timestamp=2022-04-13T05:39:34}
+{offer=gft, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=9.0, discount=30%, type=[0, 1, 0, 0], uuid=10930948-FDFF-6BDD-8BEB-8B20284F5681, userId=39, timestamp=2022-04-29T11:12:45}
+{offer=gft, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=9.6, type=[0, 1, 0, 0], uuid=AD5A422A-D4BA-F5B3-49C1-EBC3B1456DF1, userId=44, timestamp=2022-04-04T05:28:14}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=9.0, type=[0, 0, 1, 0], uuid=95ED419F-2B78-29D6-183E-8F383320129B, userId=90, timestamp=2022-04-29T02:05:32}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.4, type=[1, 0, 0, 0], uuid=2B4E912C-42CF-2D33-54AB-E4738B99E4AF, userId=11, timestamp=2022-04-19T02:10:50}
+{offer=ga, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=7.8, type=[0, 0, 1, 0], uuid=068D891F-AEED-5DF3-73D8-C47FE16D8A08, userId=80, timestamp=2022-04-09T09:43:13}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=9.6, discount=20%, type=[0, 0, 1, 0], uuid=4DAFE572-3EDC-22C6-9074-C58578BC61D5, userId=10, timestamp=2022-04-04T10:30:01}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=5.5, type=[0, 0, 0, 1], uuid=B5F3DF8D-31ED-5966-3FA7-FB08A830BE08, userId=11, timestamp=2022-04-03T08:35:30}
+{offer=h&l, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=14.8, type=[1, 0, 0, 0], uuid=C2A62697-79B3-149E-44E6-B703DCBE6EB4, userId=95, timestamp=2022-04-14T01:06:53}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=4.5, type=[1, 0, 0, 0], uuid=E9B18250-071B-05F3-7070-30C4FD0B2325, userId=41, timestamp=2022-04-02T08:52:36}
+{offer=gft, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=9.0, discount=25%, type=[0, 0, 0, 1], uuid=82870DCC-4BE9-EFBA-2880-8D8B5A23A5EB, userId=74, timestamp=2022-04-10T12:03:09}
+{offer=ga, country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=14.8, discount=15%, type=[0, 0, 0, 1], uuid=51C4F2C7-EEE3-5E39-DD2E-A29C313FDAA5, userId=39, timestamp=2022-04-14T10:37:46}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=12.0, discount=20%, type=[0, 0, 1, 0], uuid=48A19EDA-4763-51E4-427E-7BD3219E914F, userId=47, timestamp=2022-04-20T06:17:17}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=10.2, discount=20%, type=[0, 0, 1, 0], uuid=25429B98-7A8B-2E80-5F0B-73399F6F1E60, userId=88, timestamp=2022-04-26T05:48:06}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.8, type=[0, 0, 1, 0], uuid=08AF9FFA-1655-9A14-7EC4-B2886FB6F244, userId=89, timestamp=2022-04-23T09:00:43}
+{offer=h&l, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.4, discount=20%, type=[0, 1, 0, 0], uuid=4D6729DF-9684-DAE8-3B7E-3B21D53D88FD, userId=50, timestamp=2022-04-05T02:46:48}
+{offer=gft, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.0, discount=20%, type=[1, 0, 0, 0], uuid=2ECE439E-0CE9-E72E-740F-17A2D6305BD3, userId=3, timestamp=2022-04-20T01:33:13}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=12.1, discount=30%, type=[0, 0, 0, 1], uuid=56004152-182C-204F-99FE-998ED2646584, userId=90, timestamp=2022-04-21T04:28:17}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=14.8, discount=30%, type=[0, 1, 0, 0], uuid=96130002-B8B1-4F67-23BB-8223C9690160, userId=10, timestamp=2022-04-15T09:20:40}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=7.2, type=[1, 0, 0, 0], uuid=0B587222-C128-BC3A-26D9-4C4CAAC9A17B, userId=3027, timestamp=2022-04-05T03:39:41}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=7.4, type=[0, 0, 1, 0], uuid=2722BDC3-BC38-7931-EEE2-64FED394BDE7, userId=3050, timestamp=2022-04-06T11:19:42}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=2.0, type=[0, 1, 0, 0], uuid=748F5B50-E11A-5CF6-4628-7D089ECB5C94, userId=3054, timestamp=2022-04-02T01:33:35}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=5.6, discount=sg, type=[1, 0, 0, 0], uuid=A7100994-4212-353B-1988-DA07F1B65CE3, userId=3012, timestamp=2022-04-27T07:17:07}
+{offer=20%, country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=9.2, type=[0, 1, 0, 0], uuid=D9D58BBC-666E-E8DE-143C-EEF5AA97B36E, userId=3002, timestamp=2022-04-13T06:15:04}
+{offer=30%, country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=5.5, type=[0, 0, 1, 0], uuid=D517C1BD-3CAD-4EF2-FC70-D2ECD8426BF2, userId=3057, timestamp=2022-04-04T05:01:21}
+{offer=30%, country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=6.9, discount=sg, type=[0, 0, 0, 1], uuid=47309764-954B-C409-8ECD-6272395F7CBF, userId=3085, timestamp=2022-04-11T04:12:19}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.3, discount=sg, type=[1, 0, 0, 0], uuid=E283C703-83E1-395A-41C7-C50BB244D7BB, userId=3079, timestamp=2022-04-28T01:11:11}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.9, type=[0, 0, 0, 1], uuid=CE414645-1166-28DF-B93C-514B4724E1BE, userId=3091, timestamp=2022-04-23T09:13:04}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=7.3, type=[0, 0, 1, 0], uuid=6A39828B-EBB8-3257-A7EA-2F6E1E275C85, userId=3008, timestamp=2022-04-29T04:38:36}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=9.7, type=[1, 0, 0, 0], uuid=2C10BF42-59C1-8993-C190-55BBEB22061C, userId=3080, timestamp=2022-04-30T01:30:39}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=2.5, type=[0, 0, 0, 1], uuid=9CEF34D4-A085-6A8E-6336-B023A341B368, userId=3095, timestamp=2022-04-19T01:42:59}
+{offer=30%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.9, type=[0, 1, 0, 0], uuid=C5E65A47-D6B5-E628-F248-0EB492661D44, userId=3038, timestamp=2022-04-23T02:32:39}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=7.2, discount=gft, type=[0, 0, 0, 1], uuid=27BFCC0A-CFC9-A993-F651-EC68F7F1DEF7, userId=3009, timestamp=2022-04-05T11:59:05}
+{offer=25%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=7.4, type=[0, 1, 0, 0], uuid=2DD4312E-E925-D383-91EF-08CC1D45C448, userId=3089, timestamp=2022-04-24T06:28:30}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.3, discount=ga, type=[0, 0, 0, 1], uuid=97FD0E4D-8A96-C8F5-AA2D-8367543016E4, userId=3080, timestamp=2022-04-16T04:49:45}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.5, type=[0, 1, 0, 0], uuid=4A485B67-876C-60B4-C3E1-2773151552C0, userId=3060, timestamp=2022-04-04T04:39:19}
+{offer=25%, country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=9.2, discount=gft, type=[0, 1, 0, 0], uuid=DBB37417-AA4E-CD50-F895-7AF2E09F675E, userId=3096, timestamp=2022-04-13T04:43:44}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=7.4, type=[0, 1, 0, 0], uuid=F55A7FCA-2C8A-D316-3D9C-7B0F072B477A, userId=3073, timestamp=2022-04-06T09:44:47}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=10.0, type=[0, 0, 1, 0], uuid=7B5E155A-69E7-A9B7-0F00-22BE83F12EBD, userId=3074, timestamp=2022-04-15T05:28:38}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.5, type=[0, 0, 1, 0], uuid=FAEA270C-F37B-1285-AEAD-2A855C616FE0, userId=3015, timestamp=2022-04-04T09:37:02}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=7.2, type=[0, 0, 0, 1], uuid=B0C6FF34-7BA9-7231-2EBD-574C6913FAB9, userId=3029, timestamp=2022-04-05T02:24:28}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.5, type=[0, 0, 1, 0], uuid=983D4D86-73E1-CC35-F2DF-A9AAC3B0EF71, userId=3056, timestamp=2022-04-04T12:05:04}
+{offer=30%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=7.4, type=[0, 0, 1, 0], uuid=266C04E1-6AF7-52AF-4640-32EFA7AD4F1B, userId=3027, timestamp=2022-04-24T01:26:24}
+{offer=15%, country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=5.3, type=[0, 1, 0, 0], uuid=FF87AC31-A8B1-382A-AEA1-F554DE317C48, userId=3056, timestamp=2022-04-28T04:43:06}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=4.1, discount=h&l, type=[0, 0, 1, 0], uuid=D96D418C-4117-F6D4-0AF0-188AE354E0DB, userId=3084, timestamp=2022-04-17T09:06:01}
+{offer=25%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.5, type=[0, 0, 0, 1], uuid=F2AD7059-E280-AF84-EC4B-EDEC42C446F6, userId=3077, timestamp=2022-04-04T03:00:53}
+{offer=25%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=8.8, discount=gft, type=[0, 0, 1, 0], uuid=F12EA63E-A855-0F50-CECD-9A3B2444964D, userId=3040, timestamp=2022-04-22T11:41:54}
+{offer=15%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=4.4, type=[1, 0, 0, 0], uuid=85A00C7D-A436-B0B5-C369-048833C69FEC, userId=3099, timestamp=2022-04-20T01:54:04}
+{offer=20%, country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.9, type=[0, 1, 0, 0], uuid=A2D9AE1E-7B39-9979-AE4B-9E33B9B6FB5B, userId=3056, timestamp=2022-04-23T04:41:34}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.5, type=[0, 0, 0, 1], uuid=11E914B3-E453-9967-9436-DB9411BDD281, userId=3043, timestamp=2022-04-04T01:00:16}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=6.9, type=[1, 0, 0, 0], uuid=DE33D8CA-7B2B-F1FD-123C-55D330CA0398, userId=3029, timestamp=2022-04-11T07:05:05}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.5, type=[0, 1, 0, 0], uuid=C4C4A89D-77B2-179B-AA3B-88C9518EFE7C, userId=3022, timestamp=2022-04-04T07:27:56}
+{offer=20%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=2.9, discount=ga, type=[0, 1, 0, 0], uuid=9CE65FDA-A83A-C8BF-7925-AC41CEB1078E, userId=3024, timestamp=2022-04-03T03:13:27}
+{offer=20%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.5, discount=h&l, type=[0, 1, 0, 0], uuid=046D3E7C-214B-868E-0BDE-5016030F0B2A, userId=3010, timestamp=2022-04-04T11:30:07}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=9.7, discount=ga, type=[0, 0, 1, 0], uuid=85A20F2B-A0A5-B592-564E-6369C8295ECC, userId=3088, timestamp=2022-04-30T02:02:44}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=12.2, discount=gft, type=[0, 1, 0, 0], uuid=5DD377BE-E09F-B58D-ED4E-9D81F3E8A019, userId=3006, timestamp=2022-04-12T11:11:34}
+{offer=15%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=6.9, discount=sg, type=[0, 1, 0, 0], uuid=F1354B09-4452-E6A6-74EB-C98F48A2CD8F, userId=3066, timestamp=2022-04-11T12:53:58}
+{country=CANADA, size=[0, 1, 0, 0], city=Montreal, price=CAD$4.50, temperature=12.2, discount=sg, type=[0, 1, 0, 0], uuid=8F2C05E0-71A4-B0DC-223A-67639A55F107, userId=3020, timestamp=2022-04-12T04:14:06}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=10.0, discount=ga, type=[0, 1, 0, 0], uuid=67709B9E-F93C-CCE8-035C-0F6FC4BC61C7, userId=3039, timestamp=2022-04-15T03:17:25}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=7.3, type=[0, 0, 1, 0], uuid=0AD154B9-E379-0BA7-C597-9FB13CAF7EE1, userId=3012, timestamp=2022-04-29T04:29:07}
+{country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.6, type=[0, 0, 0, 1], uuid=34B957B7-036E-151C-3DF2-996F926626B4, userId=3024, timestamp=2022-04-27T05:07:48}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=4.1, type=[1, 0, 0, 0], uuid=9448147F-CCB2-118D-3092-7A46E6214D74, userId=3013, timestamp=2022-04-17T04:37:56}
+{offer=30%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.5, type=[0, 0, 0, 1], uuid=0E7BDC07-554C-A4F3-58A2-C48E5114ADB9, userId=3039, timestamp=2022-04-18T01:00:47}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=9.2, type=[0, 0, 1, 0], uuid=1B2810D1-A753-657A-B5CE-C4097CE0C659, userId=3038, timestamp=2022-04-13T02:02:13}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=5.5, type=[1, 0, 0, 0], uuid=19720356-6D2C-D98F-3928-BD1B81488FB1, userId=3038, timestamp=2022-04-04T11:33:34}
+{country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=5.5, discount=h&l, type=[0, 1, 0, 0], uuid=82D718F6-9FDB-48B1-E553-FF6E4F74DE2A, userId=3055, timestamp=2022-04-04T05:32:15}
+{offer=25%, country=CANADA, size=[1, 0, 0, 0], city=Montreal, price=CAD$5.50, temperature=2.5, discount=gft, type=[0, 0, 1, 0], uuid=CD917C7B-A34E-1EB1-F083-7E78BE8D4AD9, userId=3093, timestamp=2022-04-19T04:42:05}
+{offer=20%, country=CANADA, size=[0, 0, 0, 1], city=Montreal, price=CAD$2.50, temperature=5.0, type=[0, 0, 0, 1], uuid=D49A28A8-51C2-9021-378C-D699B03D403E, userId=3027, timestamp=2022-04-10T01:57:05}
+{country=CANADA, size=[0, 0, 1, 0], city=Montreal, price=CAD$3.50, temperature=7.4, type=[0, 0, 1, 0], uuid=F4123894-928B-E097-A5E5-A6FE95A11506, userId=3018, timestamp=2022-04-06T12:56:54}
+{offer=sg, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=11.7, type=[0, 0, 1, 0], uuid=A3DE0D68-4F97-3052-6876-D081BA7C3197, userId=84, timestamp=2022-04-22T08:11:40}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=11.5, discount=25%, type=[0, 0, 0, 1], uuid=40187454-4A8B-1BFD-E444-5CFDE0C8F968, userId=97, timestamp=2022-04-30T11:57:11}
+{offer=gft, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=10.5, type=[0, 1, 0, 0], uuid=EA9B4A98-7501-1583-9EF3-E21106C44F46, userId=24, timestamp=2022-04-11T11:39:11}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=4.5, type=[0, 0, 0, 1], uuid=08DA1190-B48C-0293-C341-E735312D97E7, userId=82, timestamp=2022-04-02T11:44:16}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=9.0, type=[0, 0, 1, 0], uuid=D3B75F84-3F2A-F601-78FD-28D96E0EE1CA, userId=54, timestamp=2022-04-29T09:00:34}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=5.5, type=[0, 0, 0, 1], uuid=88104FD4-DD9F-2A58-C329-777D62D3EDD1, userId=32, timestamp=2022-04-03T11:15:08}
+{offer=h&l, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.7, discount=15%, type=[1, 0, 0, 0], uuid=FE912DD2-6613-175D-0DD1-D5EC4FA46B14, userId=22, timestamp=2022-04-24T12:47:37}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=13.6, type=[1, 0, 0, 0], uuid=FF868BCF-3528-6ACA-7991-66CF151EF1CD, userId=70, timestamp=2022-04-12T02:12:06}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.4, discount=20%, type=[0, 0, 1, 0], uuid=0A4B8257-165F-9AEA-B55A-AA7B72B97A5E, userId=16, timestamp=2022-04-19T04:20:27}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=4.5, type=[1, 0, 0, 0], uuid=F20A54EF-2A77-DE28-2DFB-657B8B3FAFA0, userId=25, timestamp=2022-04-02T06:35:21}
+{offer=ga, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=13.6, type=[0, 1, 0, 0], uuid=9FD885D2-9664-82A0-B7AE-695EF594FFAD, userId=63, timestamp=2022-04-12T11:36:10}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=10.1, type=[0, 0, 1, 0], uuid=430ACE91-F868-1336-4998-A8EF8D33F29F, userId=94, timestamp=2022-04-07T11:49:13}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.0, type=[0, 0, 1, 0], uuid=8BD07950-04DB-29E0-A0AF-79EA08C4EFC6, userId=9, timestamp=2022-04-16T11:23:24}
+{offer=gft, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=4.5, discount=15%, type=[1, 0, 0, 0], uuid=CF1266B9-DF2F-2EE4-2B83-5704ACF57717, userId=81, timestamp=2022-04-02T09:50:58}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=10.1, type=[0, 0, 1, 0], uuid=BB06DDA0-9130-E14E-D835-9F7F3510BE6A, userId=9, timestamp=2022-04-28T10:07:35}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=11.5, type=[0, 0, 1, 0], uuid=1B0257D1-C187-7207-831B-F506EE4C05D5, userId=18, timestamp=2022-04-30T09:41:46}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=4.5, type=[0, 1, 0, 0], uuid=8175A1F7-560F-925E-706F-97E63F536A14, userId=12, timestamp=2022-04-02T10:11:26}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.0, type=[0, 0, 1, 0], uuid=F69DD53A-1373-E808-0929-DCDED15DE53F, userId=44, timestamp=2022-04-20T07:42:25}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=14.8, type=[0, 0, 0, 1], uuid=5BAA8F43-7AC3-7ED2-2C4A-FB5B3F2CD45F, userId=75, timestamp=2022-04-14T02:11:30}
+{offer=sg, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=4.5, discount=15%, type=[0, 0, 0, 1], uuid=CF5AC7C9-C037-C46F-C0F8-7FD3509E158E, userId=28, timestamp=2022-04-02T06:29:56}
+{offer=sg, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=12.4, type=[0, 0, 0, 1], uuid=CE319D2D-AD34-1117-39D5-078203D1EC68, userId=88, timestamp=2022-04-19T03:42:29}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=7.6, type=[1, 0, 0, 0], uuid=4284AD83-05B2-43A2-2F3B-AA04892D5C78, userId=6, timestamp=2022-04-08T08:10:43}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=11.0, discount=30%, type=[0, 0, 0, 1], uuid=886A8583-AC38-4BE6-6C0A-C75A8112748E, userId=81, timestamp=2022-04-06T09:36:08}
+{offer=sg, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.1, type=[0, 1, 0, 0], uuid=427ED753-37F2-5C13-BAB1-0C3C9245E05B, userId=22, timestamp=2022-04-21T11:14:32}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=10.0, discount=15%, type=[1, 0, 0, 0], uuid=04C2ED35-6744-6A58-5255-1CA7911D1D58, userId=5, timestamp=2022-04-25T01:01:15}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=12.7, type=[0, 0, 1, 0], uuid=31CF3379-5655-E185-E18D-EA53D85FE4C5, userId=52, timestamp=2022-04-24T04:12:57}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=13.6, type=[1, 0, 0, 0], uuid=B9431DAD-E090-C5EA-90DA-474FF5CC4F95, userId=58, timestamp=2022-04-12T04:54:37}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=9.2, type=[0, 0, 0, 1], uuid=8C64F7CB-8C24-50F1-0CB3-1FBAF8C446A6, userId=29, timestamp=2022-04-27T02:14:51}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=7.6, discount=30%, type=[0, 0, 0, 1], uuid=7E231C94-03B3-90ED-30E8-6A9A27937D63, userId=43, timestamp=2022-04-08T08:12:45}
+{offer=sg, country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=7.6, type=[1, 0, 0, 0], uuid=9E87CB4E-367A-F13C-F263-2F5D82F6378D, userId=57, timestamp=2022-04-08T10:21:26}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=11.7, type=[1, 0, 0, 0], uuid=287087B9-A67F-0EC1-1BB4-B8239D7F1208, userId=21, timestamp=2022-04-22T04:34:41}
+{offer=ga, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=9.0, discount=30%, type=[1, 0, 0, 0], uuid=70538E25-1295-57D5-AF22-B402218F89C6, userId=89, timestamp=2022-04-10T07:36:13}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=9.6, type=[0, 0, 0, 1], uuid=9639D373-E7F2-FC67-3990-CD487FA74919, userId=52, timestamp=2022-04-04T01:08:01}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.4, discount=30%, type=[0, 0, 1, 0], uuid=0B039D55-0EDF-8D74-2B6A-7A5F2CECF6B2, userId=41, timestamp=2022-04-05T02:17:55}
+{offer=gft, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=12.0, discount=20%, type=[1, 0, 0, 0], uuid=4E27C39C-6372-4CC0-65BE-48E8CCFFFD5A, userId=53, timestamp=2022-04-20T07:32:28}
+{offer=ga, country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=12.9, type=[0, 1, 0, 0], uuid=D35AB7D0-CEA7-4639-14F7-B07213B86D54, userId=5, timestamp=2022-04-17T10:30:23}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.1, type=[1, 0, 0, 0], uuid=A05722C9-F506-3BD6-BF80-1E355E509147, userId=41, timestamp=2022-04-21T12:25:56}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=14.5, type=[0, 0, 1, 0], uuid=55E5B08E-F0F9-4466-1735-674FCB7C4D46, userId=42, timestamp=2022-04-13T12:46:30}
+{offer=ga, country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=14.5, discount=20%, type=[1, 0, 0, 0], uuid=08609832-205C-4A9A-8EB0-C8415193E6B1, userId=57, timestamp=2022-04-13T10:55:54}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=11.0, discount=15%, type=[0, 0, 0, 1], uuid=9CFFF5BF-FD69-8566-7AFA-6FD34DF8A262, userId=51, timestamp=2022-04-06T01:55:59}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=13.6, type=[1, 0, 0, 0], uuid=4CF11C2B-1D03-37E6-45A3-A0743B4CCBDC, userId=66, timestamp=2022-04-12T12:51:23}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=14.5, type=[0, 0, 0, 1], uuid=201069AE-5492-C978-25ED-372FE658D36E, userId=30, timestamp=2022-04-13T10:10:16}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=14.8, discount=25%, type=[0, 1, 0, 0], uuid=69A8CBFC-3932-56D8-E948-22FD6A1E44BD, userId=95, timestamp=2022-04-14T01:50:26}
+{country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=10.5, discount=30%, type=[0, 0, 1, 0], uuid=698BC9FC-E4E5-80F1-951E-8381F2A1F56B, userId=35, timestamp=2022-04-11T12:46:43}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=7.6, discount=25%, type=[0, 0, 1, 0], uuid=F86075B2-66C0-6747-4D99-BF86FBBF4354, userId=29, timestamp=2022-04-08T05:21:54}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=12.1, discount=15%, type=[0, 0, 0, 1], uuid=6926A291-17AE-9A7E-AEC6-D24F7BEC3E31, userId=14, timestamp=2022-04-21T03:57:39}
+{offer=h&l, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=6.7, discount=20%, type=[0, 0, 1, 0], uuid=BE4DA21C-A291-9FC9-3657-9E7E014DB6B6, userId=1095, timestamp=2022-04-02T12:49:20}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=11.7, discount=25%, type=[0, 0, 0, 1], uuid=DD726832-683F-C870-4443-1DFBAF596DA2, userId=1072, timestamp=2022-04-20T09:15:02}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=15.4, type=[0, 0, 1, 0], uuid=933115CD-A7BF-B434-7F4F-B5507C9FB6CD, userId=3057, timestamp=2022-04-15T04:11:34}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=19.1, type=[0, 0, 1, 0], uuid=D8C6D5DC-240C-2E78-C078-70E674CBFAE2, userId=1073, timestamp=2022-04-13T09:42:51}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=13.3, discount=15%, type=[0, 0, 0, 1], uuid=8DD0F0DA-752E-38F0-F7CD-6D7F8268AC00, userId=3054, timestamp=2022-04-14T06:06:44}
+{offer=ga, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=14.3, type=[1, 0, 0, 0], uuid=B245A491-C471-A559-D119-9CE5B56C34B1, userId=1053, timestamp=2022-04-21T10:11:45}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=6.4, type=[0, 0, 1, 0], uuid=9D35D73F-B6BA-CCC8-2D06-7DD43EEC9CFE, userId=3072, timestamp=2022-04-01T09:15:16}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=14.3, type=[1, 0, 0, 0], uuid=A476ECE2-F68A-836B-747A-F6E3928FAEDC, userId=1023, timestamp=2022-04-21T07:02:21}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=11.1, discount=20%, type=[0, 0, 0, 1], uuid=28A870FB-7407-B894-8238-69CFB2B5696F, userId=3010, timestamp=2022-04-26T07:25:14}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=11.7, type=[1, 0, 0, 0], uuid=FA4BC33F-36D5-EB3B-BCFF-0A348A78C63F, userId=1045, timestamp=2022-04-20T11:00:33}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=11.3, type=[1, 0, 0, 0], uuid=57AF2BDD-C9C6-6BAB-2630-14B71CA61671, userId=3060, timestamp=2022-04-19T04:45:46}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=7.2, type=[0, 1, 0, 0], uuid=FBBB0C25-0147-ABB5-6FF7-905B3B0041BF, userId=1020, timestamp=2022-04-01T05:39:54}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=18.1, discount=30%, type=[0, 1, 0, 0], uuid=A89E88FB-024F-6751-79AD-038032558266, userId=1075, timestamp=2022-04-12T12:09:57}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=22.4, type=[0, 0, 0, 1], uuid=AF72D12E-CD5F-2BDF-B3F5-FD44EC812C26, userId=1092, timestamp=2022-04-27T01:12:20}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=6.9, type=[0, 0, 0, 1], uuid=9ACAEC5B-2846-D874-CEBE-CB8C868791A0, userId=3018, timestamp=2022-04-10T06:21:53}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.7, type=[0, 1, 0, 0], uuid=28478385-0FA9-143C-0729-52F684DF20EC, userId=1079, timestamp=2022-04-14T03:48:36}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=12.7, type=[0, 1, 0, 0], uuid=2E31F0AD-2950-5075-5BC0-E163FF2D2822, userId=3038, timestamp=2022-04-29T03:50:25}
+{offer=h&l, country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=15.7, type=[1, 0, 0, 0], uuid=5AADBB18-8305-D149-A2CC-CBB376CEF332, userId=1003, timestamp=2022-04-28T06:04:10}
+{offer=h&l, country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=12.7, type=[1, 0, 0, 0], uuid=F748BDB6-8057-5C66-0BE4-F0563907E111, userId=3090, timestamp=2022-04-29T06:46:45}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=6.4, type=[0, 1, 0, 0], uuid=312712DC-ADD3-AE7F-45DE-746A9A4F3752, userId=3071, timestamp=2022-04-01T01:49:15}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=14.3, type=[0, 0, 0, 1], uuid=6FE9B98E-A079-C98E-7E19-BD1DF82F62B1, userId=1012, timestamp=2022-04-21T06:22:34}
+{offer=ga, country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=9.5, type=[0, 1, 0, 0], uuid=EB7B5905-45EB-7E62-751C-70E596A513CE, userId=3037, timestamp=2022-04-12T10:19:48}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=11.5, type=[1, 0, 0, 0], uuid=3FA13D01-B6E3-3D30-64E7-3272396623D7, userId=1029, timestamp=2022-04-16T06:22:21}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=17.3, type=[0, 0, 0, 1], uuid=E87DAEC7-70D7-007D-5045-63B957DD445F, userId=1042, timestamp=2022-04-10T12:39:30}
+{offer=sg, country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=8.2, discount=30%, type=[0, 1, 0, 0], uuid=296EDB0F-965D-72D6-E56D-9FFA131A55DD, userId=3012, timestamp=2022-04-24T04:41:04}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=19.3, type=[1, 0, 0, 0], uuid=4AD75C8A-DE1D-AF5E-3E6D-5F398A7BBD68, userId=1013, timestamp=2022-04-23T11:13:36}
+{offer=gft, country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.2, type=[0, 0, 1, 0], uuid=AACEC469-FACF-FE05-E64D-68AB1192E697, userId=3037, timestamp=2022-04-30T02:04:38}
+{offer=sg, country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=12.9, type=[0, 1, 0, 0], uuid=F935F80E-CCD5-0600-539B-D05EE4E619F0, userId=1090, timestamp=2022-04-07T03:58:43}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=6.9, type=[0, 0, 1, 0], uuid=7D30065D-6318-4809-5260-A6C90AB574DD, userId=3096, timestamp=2022-04-10T04:26:03}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=11.7, discount=30%, type=[0, 0, 1, 0], uuid=7B2146A9-AFFB-752B-573D-C16033526D6E, userId=1076, timestamp=2022-04-17T03:30:16}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.1, type=[0, 1, 0, 0], uuid=7D53F3C8-F56C-D69D-C261-C50CB7A8D513, userId=3067, timestamp=2022-04-13T10:56:50}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=12.0, type=[0, 0, 1, 0], uuid=D8045C16-4876-9865-97A0-D1BE1D609AF5, userId=1028, timestamp=2022-04-05T07:21:36}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=11.3, type=[0, 1, 0, 0], uuid=AE0560B8-9B30-41C1-B550-92EEC045BA37, userId=3100, timestamp=2022-04-17T10:22:46}
+{country=JAPAN, size=[0, 0, 0, 1], city=Tokyo, price=¥500, temperature=18.4, type=[0, 0, 0, 1], uuid=3B626D7C-01D6-4153-BA4B-CFF7C9DDCD7A, userId=1025, timestamp=2022-04-25T12:04:29}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=11.9, discount=20%, type=[0, 0, 1, 0], uuid=697A4A0D-CEB1-4D07-44C1-1157F5822147, userId=3047, timestamp=2022-04-27T04:05:06}
+{country=JAPAN, size=[0, 0, 1, 0], city=Tokyo, price=¥600, temperature=19.4, type=[0, 0, 1, 0], uuid=997613D3-04CF-DA42-26E2-7346F4F4B048, userId=1063, timestamp=2022-04-26T04:51:10}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=7.9, discount=20%, type=[0, 1, 0, 0], uuid=FF3FF8E3-90AE-B2BC-AA73-3FAB8410CFEA, userId=3046, timestamp=2022-04-20T04:52:11}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=7.9, type=[0, 0, 0, 1], uuid=09C5B1F3-A7CC-B4BF-85B1-BA0309ABAA30, userId=3072, timestamp=2022-04-20T06:33:42}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=12.2, type=[0, 1, 0, 0], uuid=243386D9-BC9E-830D-6D62-3BF9D47E8D35, userId=3032, timestamp=2022-04-30T12:34:29}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=12.1, type=[1, 0, 0, 0], uuid=F7B57F65-095B-6354-EFF2-8E3B71563446, userId=3094, timestamp=2022-04-13T05:42:35}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=7.2, discount=30%, type=[1, 0, 0, 0], uuid=5C662BFB-5042-3FD2-D7FF-1AAF58C9AFA9, userId=3061, timestamp=2022-04-05T04:51:01}
+{country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=6.9, discount=20%, type=[0, 0, 0, 1], uuid=F110C57D-7D13-0A44-BF70-D05E92FCC2DB, userId=3006, timestamp=2022-04-10T01:25:12}
+{country=ITALY, size=[0, 0, 0, 1], city=Turin, price=€1.30, temperature=11.1, type=[0, 1, 0, 0], uuid=473A60A3-4D02-B57E-0CA5-5C0FE4A83BC4, userId=3092, timestamp=2022-04-26T05:09:39}
+{country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=7.2, type=[1, 0, 0, 0], uuid=7E58D92B-7D54-D836-A52F-039FA42DFD32, userId=1018, timestamp=2022-04-01T03:06:10}
+{offer=gft, country=UK, size=[1, 0, 0, 0], city=London, price=£5.00, temperature=14.8, discount=30%, type=[0, 0, 0, 1], uuid=6B342C13-C9EB-5AE1-52B0-11698AB329B5, userId=56, timestamp=2022-04-15T03:18:13}
+{country=UK, size=[0, 0, 1, 0], city=London, price=£3.75, temperature=12.0, type=[0, 0, 1, 0], uuid=503333BA-A9C5-2549-9101-5EF32C150DD7, userId=52, timestamp=2022-04-16T04:42:39}
+{country=UK, size=[0, 0, 0, 1], city=London, price=£3.00, temperature=13.5, type=[0, 0, 1, 0], uuid=4850E988-A9DB-3399-543E-43CE91A298B5, userId=7, timestamp=2022-04-18T07:32:16}
+{country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=10.2, type=[0, 0, 0, 1], uuid=6689CEA0-B3FE-CF53-6EDF-D40EECA5592C, userId=33, timestamp=2022-04-26T07:57:16}
+{offer=gft, country=UK, size=[0, 1, 0, 0], city=London, price=£4.50, temperature=12.8, type=[1, 0, 0, 0], uuid=39CF5068-7804-261F-6EAE-E140F6B2C853, userId=62, timestamp=2022-04-23T01:10:40}
+{offer=gft, country=JAPAN, size=[1, 0, 0, 0], city=Tokyo, price=¥1000, temperature=15.7, type=[0, 1, 0, 0], uuid=41BEE45D-95CE-5530-3F16-C85C759AC380, userId=1020, timestamp=2022-04-28T03:37:40}
+{country=ITALY, size=[0, 1, 0, 0], city=Turin, price=€1.30, temperature=15.1, discount=25%, type=[0, 0, 0, 1], uuid=90448F35-4959-6220-61F5-E901EBE57858, userId=3001, timestamp=2022-04-16T02:40:06}
+{country=ITALY, size=[1, 0, 0, 0], city=Turin, price=€3, temperature=3.8, type=[1, 0, 0, 0], uuid=B72F3DEB-4D35-2FCE-12C5-A5F25CE9E8AF, userId=3036, timestamp=2022-04-03T07:02:07}
+{country=JAPAN, size=[0, 1, 0, 0], city=Tokyo, price=¥800, temperature=19.3, type=[0, 0, 1, 0], uuid=D8AA5F26-6C16-0CD7-A12E-AEDC8E211465, userId=1042, timestamp=2022-04-23T07:41:01}
+{offer=ga, country=ITALY, size=[0, 0, 1, 0], city=Turin, price=€1.30, temperature=10.6, type=[0, 0, 0, 1], uuid=625AED7F-55FB-AFFD-0B8F-C4BE2F3DCB94, userId=3007, timestamp=2022-04-22T03:09:07}

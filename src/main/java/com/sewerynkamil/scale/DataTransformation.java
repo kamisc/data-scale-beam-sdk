@@ -17,7 +17,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
-import java.util.function.Function;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -46,67 +45,80 @@ public class DataTransformation implements Serializable {
         return newTransactionMap;
     };
 
-    public final SerializableFunction<Map<String, String>, Map<String, String>> fxConvertPrice = transactionMap -> {
-        String regex = null;
-        LocalDate fxDate = LocalDateTime.parse(transactionMap.get("timestamp"), DateTimeFormatter.ISO_DATE_TIME).toLocalDate();
-        double fxRate = 0.0;
-        switch (SaleTransaction.Country.valueOf(transactionMap.get("country"))) {
-            case UK -> {
-                regex = "£(\\d+\\.\\d{2})";
-                fxRate = 1.0;
-            }
-            case ITALY -> {
-                regex = "€(\\d+(\\.\\d{1,2})?)";
-                fxRate = getFxHelper().getRate(fxDate, Currency.EUR);
-            }
-            case JAPAN -> {
-                regex = "¥(\\d+)";
-                fxRate = getFxHelper().getRate(fxDate, Currency.JPY);
-            }
-            case CANADA -> {
-                regex = "CAD\\$(\\d+\\.\\d{2})";
-                fxRate = getFxHelper().getRate(fxDate, Currency.CAD);
-            }
-        }
+    public final SerializableFunction<Map<String, String>, Map<String, String>> fxConvertPrice =
+            new SerializableFunction<Map<String, String>, Map<String, String>>() {
+                @Override
+                public Map<String, String> apply(Map<String, String> transactionMap) {
+                    String regex = null;
+                    LocalDate fxDate = LocalDateTime.parse(transactionMap.get("timestamp"), DateTimeFormatter.ISO_DATE_TIME).toLocalDate();
+                    double fxRate = 0.0;
 
-        Matcher matcher = Pattern.compile(regex).matcher(transactionMap.get("price"));
-        if (!matcher.matches()) {
-            throw new IllegalArgumentException("Invalid price value");
-        }
-        Double d = Double.parseDouble(matcher.group(1)) * fxRate;
-        Map<String, String> newTransactionMap = new HashMap<>(transactionMap);
+                    switch (SaleTransaction.Country.valueOf(transactionMap.get("country"))) {
+                        case UK -> {
+                            regex = "£(\\d+\\.\\d{2})";
+                            fxRate = 1.0;
+                        }
+                        case ITALY -> {
+                            regex = "€(\\d+(\\.\\d{1,2})?)";
+                            fxRate = getFxHelper().getRate(fxDate, Currency.EUR);
+                        }
+                        case JAPAN -> {
+                            regex = "¥(\\d+)";
+                            fxRate = getFxHelper().getRate(fxDate, Currency.JPY);
+                        }
+                        case CANADA -> {
+                            regex = "CAD\\$(\\d+\\.\\d{2})";
+                            fxRate = getFxHelper().getRate(fxDate, Currency.CAD);
+                        }
+                    }
 
-        newTransactionMap.put("price", d.toString());
-        return newTransactionMap;
-    };
+                    Matcher matcher = Pattern.compile(regex).matcher(transactionMap.get("price"));
+                    if (!matcher.matches()) {
+                        throw new IllegalArgumentException("Invalid price value");
+                    }
 
-    public final SerializableFunction<Map<String, String>, Map<String, String>> enrichWithWeatherData = transactionMap -> {
-        LocalDate weatherDate = LocalDateTime.parse(transactionMap.get("timestamp"), DateTimeFormatter.ISO_DATE_TIME).toLocalDate();
-        String city = transactionMap.get("city").toUpperCase();
-        city = Normalizer.normalize(city, Normalizer.Form.NFD).replaceAll("\\p{InCombiningDiacriticalMarks}+", "");
+                    Double d = Double.parseDouble(matcher.group(1)) * fxRate;
+                    Map<String, String> newTransactionMap = new HashMap<>(transactionMap);
 
-        String countryShort = switch (city) {
-            case "TURIN" -> "IT";
-            case "TOKYO" -> "JP";
-            case "LONDON" -> "GB";
-            case "MONTREAL" -> "CA";
-            default -> "";
-        };
+                    return newTransactionMap;
+                }
+            };
 
-        WeatherLocation location = WeatherLocation.valueOf(countryShort);
-        Double temp = weatherHelper.getWeather(weatherDate, location).getTemperature();
-        Map<String, String> newTransactionMap = new HashMap<>(transactionMap);
-        newTransactionMap.put("temperature", temp.toString());
-        return newTransactionMap;
-    };
+    public final SerializableFunction<Map<String, String>, Map<String, String>> enrichWithWeatherData =
+            new SerializableFunction<Map<String,String>, Map<String,String>>() {
+                @Override
+                public Map<String, String> apply(Map<String, String> transactionMap) {
+                    LocalDate weatherDate = LocalDateTime.parse(transactionMap.get("timestamp"), DateTimeFormatter.ISO_DATE_TIME).toLocalDate();
+                    String city = transactionMap.get("city").toUpperCase();
+                    city = Normalizer.normalize(city, Normalizer.Form.NFD).replaceAll("\\p{InCombiningDiacriticalMarks}+", "");
 
-    public final SerializableFunction<Map<String, String>, Map<String, String>> minMaxScalingTemperature = transactionMap -> {
-        Double temp = Double.parseDouble(transactionMap.get("temperature"));
-        temp = (temp - getWeatherHelper().getMinTemp()) / tempDiff;
-        Map<String, String> newTransactionMap = new HashMap<>(transactionMap);
-        newTransactionMap.put("temperature", temp.toString());
-        return transactionMap;
-    };
+                    String countryShort = switch (city) {
+                        case "TURIN" -> "IT";
+                        case "TOKYO" -> "JP";
+                        case "LONDON" -> "GB";
+                        case "MONTREAL" -> "CA";
+                        default -> "";
+                    };
+
+                    WeatherLocation location = WeatherLocation.valueOf(countryShort);
+                    Double temp = weatherHelper.getWeather(weatherDate, location).getTemperature();
+                    Map<String, String> newTransactionMap = new HashMap<>(transactionMap);
+                    newTransactionMap.put("temperature", temp.toString());
+                    return newTransactionMap;
+                }
+            };
+
+    public final SerializableFunction<Map<String, String>, Map<String, String>> minMaxScalingTemperature =
+            new SerializableFunction<Map<String,String>, Map<String,String>>() {
+                @Override
+                public Map<String, String> apply(Map<String, String> transactionMap) {
+                    Double temp = Double.parseDouble(transactionMap.get("temperature"));
+                    temp = (temp - getWeatherHelper().getMinTemp()) / tempDiff;
+                    Map<String, String> newTransactionMap = new HashMap<>(transactionMap);
+                    newTransactionMap.put("temperature", temp.toString());
+                    return transactionMap;
+                }
+            };
 
     public final SerializableFunction<Map<String, String>, Map<String, String>> oneHotEncodeType = transactionMap -> {
         int[] typeVector = {0, 0, 0, 0};
@@ -123,7 +135,7 @@ public class DataTransformation implements Serializable {
         return newTransactionMap;
     };
 
-    public final Function<Map<String, String>, Map<String, String>> oneHotEncodeSize = transactionMap -> {
+    public final SerializableFunction<Map<String, String>, Map<String, String>> oneHotEncodeSize = transactionMap -> {
         int[] sizeVector = {0, 0, 0, 0};
         int idx = switch (transactionMap.get("size").toString()) {
             case "GG", "XL", "超大" -> 0;
